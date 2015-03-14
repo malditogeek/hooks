@@ -4,7 +4,7 @@
   "description": "+",
   "main": "index.js",
   "dependencies": {
-    "marked": "^0.3.2",
+    "marked": "^0.3.3",
     "node-gitter": "^1.2.7",
     "octonode": "^0.6.15"
   },
