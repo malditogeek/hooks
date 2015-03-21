@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "marked": "^0.3.3",
-    "node-gitter": "^1.2.7",
+    "node-gitter": "^1.2.8",
     "octonode": "^0.6.15"
   },
   "devDependencies": {},
