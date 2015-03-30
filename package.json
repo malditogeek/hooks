@@ -4,8 +4,9 @@
   "description": "+",
   "main": "index.js",
   "dependencies": {
-    "octonode": "^0.6.15",
-    "node-gitter": "^1.2.7"
+    "marked": "^0.3.3",
+    "node-gitter": "^1.2.8",
+    "octonode": "^0.6.15"
   },
   "devDependencies": {},
   "scripts": {
