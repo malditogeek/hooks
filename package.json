@@ -4,7 +4,7 @@
   "description": "+",
   "main": "index.js",
   "dependencies": {
-    "babel": "^4.7.16",
+    "babel": "6.2.1",
     "node-gitter": "^1.2.7",
     "octonode": "^0.6.15",
     "underscore": "^1.8.2"
